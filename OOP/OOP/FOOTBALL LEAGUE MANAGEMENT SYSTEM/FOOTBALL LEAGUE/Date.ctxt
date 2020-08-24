@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Date
+comment1.params=date
+comment1.target=Date(java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ getDate()
+comment11.params=start_date\ end_date
+comment11.target=java.lang.String\ calc_duration(Date,\ Date)
+comment2.params=
+comment2.target=Date()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=a
+comment4.target=boolean\ checkformat(java.lang.String)
+comment5.params=a
+comment5.target=boolean\ checkdate(java.lang.String)
+comment6.params=s
+comment6.target=boolean\ isNumber(java.lang.String)
+comment7.params=year
+comment7.target=boolean\ leapyear(java.lang.String)
+comment8.params=mon\ year
+comment8.target=int\ checkdays(java.lang.String,\ java.lang.String)
+comment9.params=date\ index
+comment9.target=int\ getSplitIndex(java.lang.String,\ int)
+numComments=12

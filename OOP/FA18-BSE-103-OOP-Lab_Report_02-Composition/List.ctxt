@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=List
+comment1.params=items
+comment1.target=List(int[])
+comment2.params=
+comment2.target=List()
+comment3.params=value
+comment3.target=void\ append(int)
+comment4.params=
+comment4.target=void\ copyElements()
+comment5.params=
+comment5.target=void\ print()
+numComments=6

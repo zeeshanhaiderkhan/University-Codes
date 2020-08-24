@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=
+comment1.target=Point()
+comment2.params=a\ b
+comment2.target=Point(int,\ int)
+comment3.params=p
+comment3.target=Point(Point)
+comment4.params=a\ b
+comment4.target=void\ set(int,\ int)
+comment5.params=
+comment5.target=void\ display()
+comment6.params=p
+comment6.target=double\ distance(Point)
+comment7.params=a\ b
+comment7.target=double\ diff(int,\ int)
+comment8.params=
+comment8.target=double\ length_from_origin()
+comment9.params=p1\ p2
+comment9.target=double\ diff(Point,\ Point)
+numComments=10

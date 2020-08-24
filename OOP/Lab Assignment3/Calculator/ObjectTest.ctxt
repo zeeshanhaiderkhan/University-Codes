@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ObjectTest
+comment1.params=a\ b
+comment1.target=java.lang.String\ sum(java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

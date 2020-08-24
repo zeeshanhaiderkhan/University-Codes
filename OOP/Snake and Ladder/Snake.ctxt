@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Snake
+comment1.params=h\ t
+comment1.target=Snake(int,\ int)
+comment2.params=
+comment2.target=int\ tail()
+comment3.params=
+comment3.target=int\ head()
+numComments=4

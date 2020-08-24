@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Body
+comment1.params=
+comment1.target=java.lang.String\ getColor()
+comment2.params=newColor
+comment2.target=void\ changeColor(java.lang.String)
+comment3.params=doorNo
+comment3.target=void\ openDoor(int)
+comment4.params=
+comment4.target=int\ getDoors()
+comment5.params=newDoors
+comment5.target=void\ changeDoors(int)
+numComments=6

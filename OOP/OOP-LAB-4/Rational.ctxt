@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Rational
+comment1.params=
+comment1.target=Rational()
+comment10.params=r1\ r2
+comment10.target=Rational\ add(Rational,\ Rational)
+comment2.params=a\ b
+comment2.target=Rational(int,\ int)
+comment3.params=r
+comment3.target=Rational(Rational)
+comment4.params=a\ b
+comment4.target=void\ set(int,\ int)
+comment5.params=
+comment5.target=void\ display()
+comment6.params=a\ b
+comment6.target=int\ gcd(int,\ int)
+comment7.params=
+comment7.target=void\ reduce()
+comment8.params=a\ b
+comment8.target=void\ add(int,\ int)
+comment9.params=r
+comment9.target=void\ add(Rational)
+numComments=11

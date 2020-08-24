@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InputPanel
+comment1.params=
+comment1.target=InputPanel()
+comment2.params=
+comment2.target=void\ sum()
+comment3.params=
+comment3.target=void\ sub()
+comment4.params=
+comment4.target=void\ mul()
+comment5.params=
+comment5.target=void\ div()
+numComments=6

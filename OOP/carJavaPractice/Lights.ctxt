@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lights
+comment1.params=
+comment1.target=boolean\ headLights()
+comment2.params=
+comment2.target=boolean\ backLights()
+comment3.params=state
+comment3.target=void\ backLights(boolean)
+numComments=4

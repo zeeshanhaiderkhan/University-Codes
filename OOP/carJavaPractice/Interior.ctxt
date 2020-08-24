@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Interior
+comment1.params=
+comment1.target=Interior()
+comment10.params=
+comment10.target=void\ checkFuel()
+comment11.params=
+comment11.target=char\ getIndicator()
+comment2.params=
+comment2.target=void\ turnRight()
+comment3.params=
+comment3.target=void\ turnLeft()
+comment4.params=side
+comment4.target=void\ setIndicator(char)
+comment5.params=
+comment5.target=void\ horn()
+comment6.params=state
+comment6.target=void\ headLights(boolean)
+comment7.params=
+comment7.target=boolean\ headLights()
+comment8.params=
+comment8.target=boolean\ backLights()
+comment9.params=state
+comment9.target=void\ backLights(boolean)
+numComments=12

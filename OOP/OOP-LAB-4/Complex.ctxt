@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Complex
+comment1.params=
+comment1.target=Complex()
+comment2.params=real\ imaginary
+comment2.target=Complex(double,\ double)
+comment3.params=z
+comment3.target=Complex(Complex)
+comment4.params=real\ imaginary
+comment4.target=void\ set(double,\ double)
+comment5.params=
+comment5.target=void\ display()
+comment6.params=z
+comment6.target=Complex\ add(Complex)
+comment7.params=real\ imaginary
+comment7.target=void\ add(double,\ double)
+comment8.params=z1\ z2
+comment8.target=Complex\ add(Complex,\ Complex)
+numComments=9

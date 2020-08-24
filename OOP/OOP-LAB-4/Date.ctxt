@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Date
+comment1.params=
+comment1.target=Date()
+comment10.params=day\ month\ year
+comment10.target=boolean\ validate(int,\ int,\ int)
+comment2.params=day\ month\ year
+comment2.target=Date(int,\ int,\ int)
+comment3.params=date
+comment3.target=Date(Date)
+comment4.params=day\ month\ year
+comment4.target=void\ set(int,\ int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=data\ array
+comment6.target=boolean\ in(int,\ int[])
+comment7.params=year
+comment7.target=boolean\ isLeap(int)
+comment8.params=day\ year
+comment8.target=boolean\ leapCheck(int,\ int)
+comment9.params=day\ month
+comment9.target=boolean\ checkDayMonth(int,\ int)
+numComments=11

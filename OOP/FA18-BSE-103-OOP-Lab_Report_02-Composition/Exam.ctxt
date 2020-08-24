@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Exam
+comment1.params=course\ gpa
+comment1.target=Exam(java.lang.String,\ double)
+comment2.params=
+comment2.target=Exam()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=double\ getGrade()
+comment5.params=
+comment5.target=double\ getValue()
+comment6.params=
+comment6.target=double\ toDouble()
+comment7.params=grade
+comment7.target=void\ setGrade(double)
+comment8.params=course
+comment8.target=void\ setCourse(java.lang.String)
+comment9.params=
+comment9.target=double\ getPercent()
+numComments=10

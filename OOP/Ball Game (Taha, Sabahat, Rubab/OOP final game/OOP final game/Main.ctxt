@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=void\ Main()
+comment2.params=
+comment2.target=void\ toNextLevel()
+comment3.params=
+comment3.target=void\ main()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+numComments=5

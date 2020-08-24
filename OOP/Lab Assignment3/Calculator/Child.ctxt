@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Child
+comment1.params=
+comment1.target=Child()
+comment2.params=a\ b
+comment2.target=void\ sum(int,\ int)
+comment3.params=b
+comment3.target=Child\ add(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

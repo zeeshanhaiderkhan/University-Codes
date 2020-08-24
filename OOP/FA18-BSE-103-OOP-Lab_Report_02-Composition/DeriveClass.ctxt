@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DeriveClass
+comment1.params=
+comment1.target=DeriveClass()
+comment2.params=s
+comment2.target=int\ retA(int)
+comment2.text=public\ double\ retA(){\r\n\ \ \ \ \ \ \ \ return\ 1;\r\n}
+numComments=3

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GamePlay
+comment1.params=
+comment1.target=GamePlay()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=int\ getTotalBricks()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment6.params=e
+comment6.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment7.params=e
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=
+comment8.target=void\ moveRight()
+comment9.params=
+comment9.target=void\ moveLeft()
+numComments=10

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StadiumPanel
+comment1.params=
+comment1.target=StadiumPanel()
+comment2.params=
+comment2.target=java.lang.String[]\ getCountries()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ladder
+comment1.params=t\ b
+comment1.target=Ladder(int,\ int)
+comment2.params=
+comment2.target=int\ top()
+comment3.params=
+comment3.target=int\ bottom()
+numComments=4
